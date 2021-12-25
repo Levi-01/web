@@ -1,2 +1,1 @@
-# web
-https://web.github.io/#/home
+https://levi-01.github.io/web/
