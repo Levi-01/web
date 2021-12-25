@@ -4215,14 +4215,14 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   color: rgba(41, 154, 230, 0.7);
 }
 .footer__list a:hover {
-  color: #50B9E9;
+  color: #800080;
 }
 .footer__list p {
   font-size: 14px;
   color: rgba(41, 154, 230, 0.7);
 }
 .footer__list p:hover {
-  color: #50B9E9;
+  color: #800080;
 }
 .footer__app {
   display: flex;
@@ -4277,7 +4277,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   color: rgba(41, 154, 230, 0.7);
 }
 .footer__social a:hover {
-  color: #50B9E9;
+  color: #800080;
 }
 .footer__copyright {
   display: flex;
